@@ -13,6 +13,74 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\air1.png",
+      "PackagePath": "staticwebassets\\img\\air1.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\air2.png",
+      "PackagePath": "staticwebassets\\img\\air2.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\air3.png",
+      "PackagePath": "staticwebassets\\img\\air3.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\air4.png",
+      "PackagePath": "staticwebassets\\img\\air4.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\au1.png",
+      "PackagePath": "staticwebassets\\img\\au1.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\au2.png",
+      "PackagePath": "staticwebassets\\img\\au2.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\au3.png",
+      "PackagePath": "staticwebassets\\img\\au3.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\au4.png",
+      "PackagePath": "staticwebassets\\img\\au4.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\case1.png",
+      "PackagePath": "staticwebassets\\img\\case1.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\case2.png",
+      "PackagePath": "staticwebassets\\img\\case2.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\case3.png",
+      "PackagePath": "staticwebassets\\img\\case3.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\case4.png",
+      "PackagePath": "staticwebassets\\img\\case4.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\mopu4.png",
+      "PackagePath": "staticwebassets\\img\\mopu4.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\mou1.png",
+      "PackagePath": "staticwebassets\\img\\mou1.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\mou2.png",
+      "PackagePath": "staticwebassets\\img\\mou2.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\mou3.png",
+      "PackagePath": "staticwebassets\\img\\mou3.png"
+    },
+    {
+      "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\img\\mou5.png",
+      "PackagePath": "staticwebassets\\img\\mou5.png"
+    },
+    {
       "Id": "D:\\PROGRAMACION I - 2024I\\PC4Lab\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

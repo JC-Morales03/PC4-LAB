@@ -65,3 +65,4 @@ D:\PROGRAMACION I - 2024I\PC4Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger
 D:\PROGRAMACION I - 2024I\PC4Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\PROGRAMACION I - 2024I\PC4Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\PROGRAMACION I - 2024I\PC4Lab\obj\Debug\net8.0\PC4Lab.MvcApplicationPartsAssemblyInfo.cs
+D:\PROGRAMACION I - 2024I\PC4Lab\obj\Debug\net8.0\PC4Lab.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PC4Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6376d429cefe4b846c86a13c5daf344d719a9d71")]
 [assembly: System.Reflection.AssemblyProductAttribute("PC4Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PC4Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
